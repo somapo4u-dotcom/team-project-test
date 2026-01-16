@@ -25,8 +25,29 @@
 # team-project-test
 # team-project-test
 # team-project-test
+<<<<<<< HEAD
 
 
 =======
 사용법이 어렵군요~~
 >>>>>>> Stashed changes
+=======
+# team-project-test
+# team-project-test
+# team-project-test
+# team-project-test
+# team-project-test
+
+
+
+
+
+
+
+slkjasdl;fkj 
+werlkn we
+ikl jwer
+ wer
+kl 
+wer 
+>>>>>>> 03f2fcd4aa9f01bf3c0e0fc2c66778bf60a76268
