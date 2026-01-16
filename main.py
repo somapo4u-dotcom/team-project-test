@@ -1,7 +1,7 @@
 from json
 
 def load_file():
-    pass
+    print("")
 
 
 if __name__ == "__main__":
